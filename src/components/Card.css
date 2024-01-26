@@ -9,7 +9,6 @@
 .card {
   height: 320px;
   width: 300px;
-  background: rgb(90, 118, 130, 0.4);
   display: flex;
   flex-direction: column;
   justify-content: center;
