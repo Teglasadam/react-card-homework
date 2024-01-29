@@ -24,16 +24,6 @@
   text-transform: uppercase;
   text-align: center;
 }
-.cardTitle .rainbowColor {
-  background: linear-gradient(
-    90deg,
-    rgb(219, 191, 28) 0%,
-    rgba(227, 89, 150, 1) 50%,
-    rgb(11, 109, 129) 100%
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
 
 .cardParag {
   max-width: 80%;
